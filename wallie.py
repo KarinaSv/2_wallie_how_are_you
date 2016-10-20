@@ -18,3 +18,5 @@ def get_wallie_action():
 if __name__ == '__main__':
     action = get_wallie_action()
     print action
+git clone <https://github.com/KarinaSv/2_wallie_how_are_you.git>
+    
